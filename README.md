@@ -1,4 +1,4 @@
-# Commands-CheatSheet-Developers
+# Docker Commands -CheatSheet-Developers
 Understanding Docker Commands and Their Purposes
 # Use the official OpenJDK 17 image from Docker Hub
 FROM openjdk:17
